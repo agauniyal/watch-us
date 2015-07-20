@@ -1,0 +1,22 @@
+{
+    "name": "watch",
+    "version": "1.0.0",
+    "description": "watches over your server and endpoints",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "watch",
+        "monitor",
+        "nodejs"
+    ],
+    "author": "Abhinav Gauniyal",
+    "license": "MIT",
+    "dependencies": {
+        "diskspace": "^0.1.7"
+    },
+    "engines": {
+        "node": "0.12.x"
+    }
+}
