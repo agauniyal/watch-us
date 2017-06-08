@@ -14,7 +14,7 @@
     "author": "Abhinav Gauniyal",
     "license": "MIT",
     "dependencies": {
-        "diskspace": "^0.1.7"
+        "diskspace": "^2.0.0"
     },
     "engines": {
         "node": "0.12.x"
