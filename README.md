@@ -1,4 +1,6 @@
 # watch-us
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/agauniyal/watch-us.svg)](https://greenkeeper.io/)
 monitors your servers/API/web endpoints via sockets
 
 #### How to use
